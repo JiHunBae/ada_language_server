@@ -338,3 +338,4 @@ Don't hesitate to [open an issue](https://github.com/AdaCore/ada_language_server
 ## License
 
 [GPL-3](LICENSE)
+hahaha
